@@ -57,6 +57,25 @@ local variants = {
 		highlight_high = "#cecacd",
 		none = "NONE",
 	},
+	dust = {
+		_nc = "#fdf6e3",
+		base = "#fdf6e3",
+		surface = "#fdf6e3",
+		overlay = "#fdf6e3",
+		muted = "#9893a5",
+		subtle = "#797593",
+		text = "#575279",
+		love = "#b4637a",
+		gold = "#ea9d34",
+		rose = "#d7827e",
+		pine = "#286983",
+		foam = "#56949f",
+		iris = "#907aa9",
+		highlight_low = "#f4ede8",
+		highlight_med = "#dfdad9",
+		highlight_high = "#cecacd",
+		none = "NONE",
+	},
 }
 
 if variants[options.variant] ~= nil then
