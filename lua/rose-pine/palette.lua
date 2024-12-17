@@ -40,7 +40,8 @@ local variants = {
 	},
 	dawn = {
 		_nc = "#f8f0e7",
-		base = "#faf4ed",
+		base = "#fdf6e3",
+		-- base = "#faf4ed",
 		surface = "#fffaf3",
 		overlay = "#f2e9e1",
 		muted = "#9893a5",
